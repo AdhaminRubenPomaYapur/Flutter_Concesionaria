@@ -1,0 +1,25 @@
+{
+    "nombreApp" : "Automoviles",
+    "rutas" : [
+        {
+            "ruta"  : "create",
+            "icon"  : "create",
+            "texto" : "Creacion de Autos"
+        },
+        {
+            "ruta"  : "read",
+            "icon"  : "read_more_rounded",
+            "texto" : "Ver Autos"
+        },
+        {
+            "ruta"  : "update",
+            "icon"  : "system_update_alt",
+            "texto" : "Modificar Autos"
+        },
+        {
+            "ruta"  : "delete",
+            "icon"  : "delete",
+            "texto" : "Eliminar Autos"
+        }
+    ]
+}
